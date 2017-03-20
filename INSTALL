@@ -1,0 +1,9 @@
+Building tristar
+
+See doc/readme-qt.rst for instructions on building tristar-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of tristar.
+
+See doc/build-*.txt for instructions on building tristard,
+the intended-for-services, no-graphical-interface, reference
+implementation of tristar.
